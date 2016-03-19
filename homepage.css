@@ -82,17 +82,24 @@ hr{
 .schools h2{
 	color:#5c738a;
 	font-weight: 700;
-	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
-            	 0px 8px 13px rgba(0,0,0,0.1),
-            	 0px 18px 23px rgba(0,0,0,0.1);
 }
 
 .schools h3{
 	color:#5c738a;
+	text-shadow: 0px 0px 0px white;
 }
 
+.schools{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
 
-.school_symb{
-	margin-bottom: 15px;
-	margin-top: 15px;
+#long {
+	margin-top: 5px !important;
+}
+
+.end_of_page{
+	text-align: center;
+	color: white !important;
+	padding: 10px 10px 70px 10px;
 }
