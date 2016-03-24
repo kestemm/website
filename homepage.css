@@ -7,7 +7,10 @@ html{
 	height: 80%;
 }
 p{
-	font-size: 1.5em;
+	font-size: 2.0rem;
+}
+li{
+	font-size: 2.0rem;
 }
 
 /**************************
@@ -93,8 +96,12 @@ hr{
        Experience
 **************************
 **************************/
+.thumbnail{
+	background-color: #EEEEEE;
+}
+
 .experience{
-	padding-bottom: 20%
+	padding-bottom: 10%
 }
 
 .factoid{
